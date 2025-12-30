@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ubaidAhmadRaza
-- 👀 I’m learning full stack developemt now
+- 👀 I’m a learner
 
 <!---
 ubaidAhmadRaza/ubaidAhmadRaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
